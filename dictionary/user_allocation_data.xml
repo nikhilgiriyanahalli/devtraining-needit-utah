@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="edge_encryption_excluded=true" db_object_id="fec5c028314612108a7c7b974a26f269" label="User Allocation Data" max_length="40" name="user_allocation_data" type="collection">
+        <element default="white color" label="color" max_length="40" name="x_58872_needit_color" type="color"/>
+        <element label="1" max_length="40" name="x_58872_needit_x_582872_needit_x_58872_needit" type="audio"/>
+        <element label="white" max_length="40" name="x_58872_needit_white" type="color"/>
+    </element>
+</database>

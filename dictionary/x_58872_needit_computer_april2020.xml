@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="f257b3fdc30712100b55b1fdd40131a1" extends="sys_import_set_row" label="computer_april2020" max_length="40" name="x_58872_needit_computer_april2020" type="collection">
+        <element attributes="import_attribute_name=CPU speed(MHz)" label="CPU speed(MHz)" max_length="40" name="u_cpu_speed_mhz_" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Name" label="Name" max_length="40" name="u_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Operating System" label="Operating System" max_length="40" name="u_operating_system" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Manufacturer" label="Manufacturer" max_length="40" name="u_manufacturer" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Created" label="Created" max_length="40" name="u_created" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Cost center" label="Cost center" max_length="40" name="u_cost_center" type="string"/>
+        <element attributes="import_attribute_name=Cost" label="Cost" max_length="40" name="u_cost" type="integer"/>
+        <element attributes="import_attribute_name=Disk space(GB)" label="Disk space(GB)" max_length="40" name="u_disk_space_gb_" type="integer"/>
+    </element>
+</database>

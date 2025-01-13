@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="fdb373b0c30352100b55b1fdd4013148" label="trail table" max_length="40" name="x_58872_needit_ocassion" type="collection">
+        <element label="white" max_length="40" name="white" type="color"/>
+    </element>
+</database>
